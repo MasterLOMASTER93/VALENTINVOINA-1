@@ -1,0 +1,31 @@
+h1 {
+    test-aling
+}
+
+#test {
+    font-style: italic;
+    color: green;
+}
+
+p {
+    color: blue 
+}
+
+.vip {
+    color: blueviolet;
+}
+
+.super__vip {
+    color: yellow;
+}
+
+ul.a li {
+    color: darkcyan;
+}
+
+ul.b li {
+    color: blue;
+}
+
+div#aaa.bbb.ccc. ul#qqq.www.eee li.hhh.yyy span#yyy.uuu em{
+}
